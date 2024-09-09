@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/shalad2/shalad2/main/profile-summary-card-output/zenburn/4-productive-time.svg)
-```
-
-    
